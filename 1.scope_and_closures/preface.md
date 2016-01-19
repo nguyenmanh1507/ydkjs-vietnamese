@@ -25,3 +25,23 @@ Nằm trong các nghịch lý của JavaScript, gót chân Achilles của ngôn 
 ## Nhiệm vụ
 
 Nếu tại mọi điểm chúng ta gặp phải bất ngờ hoặc bực mình trong JavaScript, phản hồi của bạn la thêm nó vào blacklist, như là một thói quen để làm, bạn sẽ sớm rơi vào vỏ rỗng của sự phong phú của JavaScript.
+
+Trong khi tập con này đã được đặt tên nổi tiếng "The Good Parts", tôi khẩn cầu bạn, người đọc, thay vào nó xem nó là "The Easy Parts", "The Safe Parts", hoặc thậm chí "The Incomplete Parts".
+
+Series sách _You Don't Know JavaScript_ cung cấp thử thách trái ngược: học và hiểu sâu tất cả JavaScript, thậm chí "The Tough Parts".
+
+Ở đây, chúng ta giải quyết xu hướng đứng đầu của JS developer là học "vừa đủ", không bắt bản thân họ học chính xác như thế nào và tại sao ngôn ngữ hành xử như vậy. Xa hơn, chúng ta tránh lời khuyên chung là rút lui khi con đường gập ghềnh.
+
+Tôi không phải tự thỏa mãn, bạn cũng không nên như vậy, khi dừng lại ở một thứ gì đó _just works_, và không biết thực sự tại sao. Tôi đưa bạn vào cuộc hành trình vào con đường ít người qua lại và bao bọc tất cả cái mà JavaScript làm và có thể làm. Với kiến thức này, không công nghệ, framework, từ viết tắt phổ biến một tuần nào vượt ngoài tầm hiểu biết của bạn.
+
+Những quyển sách này mỗi quyển nói về các phần core cụ thể của ngôn ngữ cái mà hầu hết thường bị hiểu sai hoặc hiểu chưa sâu, và đi sâu và tìm hiểu sâu sắc về chúng. Bạn nên đi xa hơn việc đọc với niềm tin vững chắc vào sự hiểu biết của bạn, không chỉ là lý thuyết, mà còn là thực hành "cái bạn cần biết".
+
+JavaScript bạn biết lúc này có lẽ là các phần được truyền lại cho bạn bởi những người khác, những người đã bị đốt cháy bởi sự hiểu biết chưa trọn vẹn. 
+
+---
+
+## Tổng kết
+
+JavaScript rất tuyệt vời. Nó dễ dàng học từng phần nhưng khó hơn nhiều khi học toàn bộ (hoặc thậm chí vừa đủ). Khi developer gặp phải bối rối, họ thường đổ lỗi cho ngôn ngữ thay vì sự thiếu kiến thức của họ. Các quyển sách này nhằm sửa điều đó, tạo cảm hứng cao cho ngôn ngữ bạn có bây giờ, và nên hiểu sâu.
+
+Note: Nhiều ví dụ trong quyển này giả sử môi trường JavaScript engine hiện đại, như là ES6. Một vài code có thể không hoạt động như mô tả nếu chạy ở engine cũ (trước ES6).
